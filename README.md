@@ -8,6 +8,8 @@ Example Conditions:
 - Enable a block if a module is enabled ( could be negated)
 - Disable a block if a module is disabled ( could be negated)
 
+![Enable search](https://github.com/enzolutions/module_conditions/blob/master/images/module_conditions_config.png)
+
 Supporting organizations: 
 [Anexus](http://anexusit.com) - Development
 [Drupal Console](http://drupalconsole.com) - Proudly generated with Drupal Console Project

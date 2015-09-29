@@ -11,5 +11,5 @@ Example Conditions:
 ![Enable search](https://github.com/enzolutions/module_conditions/blob/master/images/module_conditions_config.png)
 
 Supporting organizations: 
-[Anexus](http://anexusit.com) - Development
-[Drupal Console](http://drupalconsole.com) - Proudly generated with Drupal Console Project
++ [Anexus](http://anexusit.com) - Development
++ [Drupal Console](http://drupalconsole.com) - Proudly generated with Drupal Console Project
